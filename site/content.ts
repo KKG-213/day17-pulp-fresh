@@ -290,7 +290,7 @@ export const footer = {
   hours: ["Pressed daily · 5 am", "Delivered by 9 am"],
   socials: ["IG", "YT", "X"],
   wordmark: "Pulp Fresh",
-  note: "Concept website by Triozen Tech · sample prices",
+  note: "Concept website by  ❤️ Developer koushik ❤️ ",
 };
 
 export const rupee = (n: number) => `₹${n.toLocaleString("en-IN")}`;
